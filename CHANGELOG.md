@@ -11,6 +11,7 @@ X.Y.Z Release notes
 
 ### Enhancements
 * Added a method named `computeSize` on the Realm object that computes the aggregated size of all objects and their history.
+* Improved performance of `realm.create()` when running in node.
 
 ### Bug fixes
 * None.
